@@ -1,7 +1,4 @@
   # Name: Tim Foster
-  # Email: foster@onid.oregonstate.edu
-  # Class name: CS311-400
-  # Assignment: Homework #1
 
 import math
 
